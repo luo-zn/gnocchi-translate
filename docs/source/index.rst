@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 gnocchi 翻译文档!
-===================================
+================
 
 .. toctree::
    :maxdepth: 2
