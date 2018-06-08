@@ -1,0 +1,2 @@
+# gnocchi
+Translation for Gnocchi
